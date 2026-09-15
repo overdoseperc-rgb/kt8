@@ -1,0 +1,14 @@
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\bin\Debug\net10.0\SumCalculator.exe
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\bin\Debug\net10.0\SumCalculator.deps.json
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\bin\Debug\net10.0\SumCalculator.runtimeconfig.json
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\bin\Debug\net10.0\SumCalculator.dll
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\bin\Debug\net10.0\SumCalculator.pdb
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\SumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\SumCalculator.AssemblyInfoInputs.cache
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\SumCalculator.AssemblyInfo.cs
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\SumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\SumCalculator.dll
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\refint\SumCalculator.dll
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\SumCalculator.pdb
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\SumCalculator.genruntimeconfig.cache
+C:\Users\misarry\Desktop\kt8calculator\SumCalculator\obj\Debug\net10.0\ref\SumCalculator.dll
